@@ -61,6 +61,8 @@
   </form>
 </main>
 
+<!-- Based on tutorial from https://www.youtube.com/watch?v=yrrw6KdGuxc -->
+
 <style>
   form {
     --text-color: #afafaf;
